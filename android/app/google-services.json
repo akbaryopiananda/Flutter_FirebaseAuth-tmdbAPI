@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "312343317770",
+    "project_id": "zapira-project",
+    "storage_bucket": "zapira-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312343317770:android:d294a1c0c1d14b5c067ef3",
+        "android_client_info": {
+          "package_name": "com.zpr.auth_firebaseuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312343317770-vbhdrfiei5oacpc258k9hv9jdeub73m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zpr.auth_firebaseuas",
+            "certificate_hash": "a92cf36e71e638d01ae62c9d7f9a7138ee2f5f0a"
+          }
+        },
+        {
+          "client_id": "312343317770-r7t9u3ba32nkrd8895gtf0gab8kva0s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAEZCCcnHyu9f68OrX4B2lSf1Y_4a5ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312343317770-r7t9u3ba32nkrd8895gtf0gab8kva0s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
